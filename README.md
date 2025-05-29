@@ -27,6 +27,8 @@ All powered by **OpenAI's GPT-3.5 model** and a user-friendly, multilingual Grad
 - **Custom Output Length:** Set your desired summary length (character count)
 - **Robust Error Handling:** Feedback for unreadable PDFs, empty files, etc.
 
+<img src="demo_screenshot.png" alt="App Screenshot" width="600"/>
+
 ---
 
 ## 📝 How To Use
