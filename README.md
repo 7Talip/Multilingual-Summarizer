@@ -1,5 +1,5 @@
 # Multilingual-Summarizer
-# 🧠 Multilingual Text & PDF Summarizer with GPT-3.5
+🧠 Multilingual Text & PDF Summarizer with GPT-3.5
 
 **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/Talip7/multilingual-summarizer)  
 **Author:** [Talip7](https://huggingface.co/Talip7)
